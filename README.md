@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JDBE. You can call me Joe. 
-- 🌱 I’m currently learning programming fundementals and working towards a BS in IT.
+- 🌱 I’m currently learning programming fundamentals and working towards a BS in IT.
 - 📫 You can reach me at joeydabearco@gmail.com for anything or any tips you'd like to give me. 
 
 
